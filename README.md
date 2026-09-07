@@ -119,9 +119,9 @@ results published here will say so plainly.
 
 ## Attribution
 
-Built with Claude Code as a pair programmer. The architecture, strategy design and
-risk model are mine, and commits written with AI assistance carry a co-author
-trailer.
+The strategy, risk model and architecture are my own design. Implementation was
+written with AI assistance, and commits carry a co-author trailer where that
+applies.
 
 ## License
 
